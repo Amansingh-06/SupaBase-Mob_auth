@@ -1,5 +1,5 @@
-📱 Supabase Phone OTP Authentication + Restaurant Listing
-This project is a simple React application that demonstrates:
+<h1>Supabase Phone OTP Authentication + Restaurant Listing</h1>
+  This project is a simple React application that demonstrates:
 
 ✅ Phone number-based OTP Authentication using Supabase
 
